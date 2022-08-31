@@ -1,4 +1,4 @@
-# Market-Segmentation-Project
+# Market-Segmentation-Project with SAS
 
 ## Data - 
 The NCS survery data is under NDA and can not be shared. The data groups customers based on their responses to questions. The questions vary from demographics,
