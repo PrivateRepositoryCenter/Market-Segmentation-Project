@@ -1,6 +1,7 @@
 # Market-Segmentation-Project
 
-## Data - The NCS survery data is under NDA and can not be shared. The data groups customers based on their responses to questions. The questions vary from demographics,
+## Data - 
+The NCS survery data is under NDA and can not be shared. The data groups customers based on their responses to questions. The questions vary from demographics,
 lifestyle choices, political vies, etc....
 
 ## Objective
