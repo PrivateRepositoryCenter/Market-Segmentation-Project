@@ -54,4 +54,4 @@ The race leans towards non white. Gender is split even. This cluster has the hig
 #### Note: 
 There are a few flaws with the way the variables have been created. It would have been best to create mean score for each race and other varirables that
 have more than 2 options. This way we could have seen the way sepcific races are being spread across. Sadly, I do not have access to the data this project was created
-with anymore, so I can no longer fixes. Otherwise I would have made improvements. 
+with anymore, so I can no longer make fixes. Otherwise I would have made improvements. 
