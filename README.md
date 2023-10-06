@@ -39,7 +39,7 @@ Mainly white cluster.
 Cluster 2: ( Fit Diverse and Tech Aquainted )Excercise quite a bit, but not as much as cluster 1. Tied for 1st when it comes to looking for brand names. 
 Are much more interested in cell ads than other groups and have a high score for the lifestyle abstract. 
 This cluster has more Timberland, UGG, and much higher Converse buyers than the others.
-Has a higher amount of non white surver takers and less parents than other groups.
+Has a higher amount of non white survey takers and less parents than other groups.
 
 Cluster 3: (Beautiful Internet Explorers) Cares the most about looks but does not excercise.Looks for brand names but does not care much for cell ads. 
 They also have a moderatly high lifestyle abstract score. Low amount of UGG shoppers, leans white, majority female, 2nd highest non parents.  
